@@ -141,7 +141,7 @@ st.markdown("""
 with st.container():
     
     # Title & Subtitle
-    st.markdown("<h1>🌍 EchoLango</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>🌍 Indic Language Translator</h1>", unsafe_allow_html=True)
     st.markdown("<h4>AI-powered translation in your language 🚀</h4>", unsafe_allow_html=True)
     st.markdown("<div class='divider'></div>", unsafe_allow_html=True)
 

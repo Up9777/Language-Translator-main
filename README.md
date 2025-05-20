@@ -1,8 +1,8 @@
-# 🌐 EchoLango - AI Language Translator
+# 🌐 Indic Language Translator - AI Language Translator
 
-**EchoLango** is a multilingual translation web app built with **Streamlit**, powered by **LLaMA 3** via **Groq API**, and enhanced with **gTTS** for text-to-speech functionality. It translates text between various languages and lets users listen to both original and translated content with a sleek, dark-themed interface.
+**Indic Language Translator** is a multilingual translation web app built with **Streamlit**, powered by **LLaMA 3** via **Groq API**, and enhanced with **gTTS** for text-to-speech functionality. It translates text between various languages and lets users listen to both original and translated content with a sleek, dark-themed interface.
 
-👉 **[EchoLango Live Demo](#)**
+👉 **[Indic Laguage Translator](#)**
 
 ---
 
@@ -65,7 +65,13 @@ Create a file named `languages.py` in the same directory as `app.py` with the fo
 LANGUAGES = {
     "English": "en",
     "Hindi": "hi",
-}
+    "Afar": "aa",
+    "Abkhazian": "ab",
+    "Afrikaans": "af",
+    "Akan": "ak",
+    "Amharic": "am",
+    "Arabic": "ar",
+} and many more ...
 ```
 
 ### 5. Run the app:
@@ -92,7 +98,7 @@ streamlit run app.py
 
 ## ✏️ Usage
 
-**EchoLango** is your multilingual assistant for:
+**Indic Language Translator** is your multilingual assistant for:
 
 * 🌍 Language Translation with a visually appealing dark theme
 * 🗣️ Text-to-Speech Playback for both input and translated text
@@ -130,4 +136,4 @@ This project is open-source and available under the **MIT License**.
 
 Let me know if you want me to insert images, links, or badges in the README as well!
 ```
-Refer this link for Live Demo - [Watch the demo video](https://youtu.be/lFwU4hD84o4)
+Refer this link for Live Demo - [Watch the demo video](https://youtu.be/iU9FnMKOrh4)
